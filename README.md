@@ -10,7 +10,7 @@ Components for logging of XML payloads within popular Java service frameworks:
  
 Projects using this library will benefit from:
 
-  * High-performance reformatting of XML
+  * High-performance reformatting of XML (see this [blog post])
   * Advanced filtering options
     * Max text and/or CDATA node sizes
     * Reformatting of XML within text and/or CDATA nodes
@@ -73,3 +73,4 @@ For Spring configuration, see the [Spring Cheat Sheet].
 [Mule-CXF]:             ./mule-cxf
 [Mule ESB example]:     ./mule-cxf-example
 [Mule ESB benchmark]:   ./cxf-benchmark
+[blog post]:            http://www.greenbird.com/2015/06/11/logging-soap-traffic-in-mule-esb-versions-3-2-to-3-6/
